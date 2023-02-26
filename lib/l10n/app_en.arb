@@ -1,0 +1,13 @@
+{
+    "appName": "Hera App",
+    "registeredOn": "Registered on",
+    "email": "Email",
+    "password": "Password",
+    "dob": "D.O.B.",
+    "gender": "Gender",
+    "phoneNo": "Phone No.",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "profile": "Profile"
+}
